@@ -1,3 +1,19 @@
-.wow {
-  width: 100px;
+html{
+  box-sizing:border-box;
+  font-size: 100%;  
+}
+
+*, *::before, *::after{
+  box_sizing: inherent;
+}
+
+body{
+margin: 0;
+padding: 0;
+background-color: #000000;
+color: #ffffff;
+}
+
+#map{
+  height: 80vh;
 }

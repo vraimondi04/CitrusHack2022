@@ -129,8 +129,8 @@ function initMap(){
       "Things Change, Change Things - UCR’s Art building asks highlanders to rise above the status quo",
       33.975013182223925,
       -117.33182395563996,
-      "Things_Change1.png",
-      115,
+      "Things_Change2.png",
+      125,
       90,
       0,
       0,
@@ -164,6 +164,19 @@ function initMap(){
   //    32
       // 33.97196966313176, -117.32938189678585
     ],
+    // 33.97458236425944, -117.32455620189708
+       ["Orbach Library - UCR’s Orbach Science library is one of the best places for students to study (and to live in during finals week)",
+      33.97458236425944,
+      -117.32455620189708,
+      "Library.png",
+      100,
+      100,
+      0,
+      0,
+  //    0,
+  //    32
+      // 33.97196966313176, -117.32938189678585
+    ],
 
     [
       "Student Success Center - UCR’s newest building provides the best place for students to succeed, as the name suggests",
@@ -177,6 +190,38 @@ function initMap(){
   //    0,
   //    32
       // 33.97415479489205, -117.32998544890951
+    ],
+// 33.97870094905273, -117.32467727306137
+        [
+      "Dining Hall - Great places to eat a lot of food (especially pizza) with friends",
+      33.97870094905273,
+      -117.32467727306137,
+      "Dining_Hall.png",
+      120,
+      100,
+      0,
+      0,
+    ],
+      [        
+      "UC Police Station - Every highlander has to stay safe!",
+      33.97900306467142, 
+      -117.33066019450325,
+      "Police.png",
+      120,
+      90,
+      0,
+      0,
+    ],
+    // 33.9790388433679, -117.33080151875271
+      [
+      "Dining Hall - Great places to eat a lot of food (especially pizza) with friends",
+      33.97590841629148,
+      -117.32247647121297,
+      "Dining_Hall.png",
+      120,
+      100,
+      0,
+      0,
     ],
 
         [

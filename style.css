@@ -17,3 +17,10 @@ color: #ffffff;
 #map{
   height: 80vh;
 }
+
+h1{
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+  font-size:2rem;
+  padding: 0 3rem;
+}
